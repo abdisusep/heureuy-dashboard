@@ -1,20 +1,19 @@
-<h1 align="center">Mazer Dashboard</h1>
+<h1 align="center">Stay Dashboard</h1>
 
-![Mazer Screenshot](https://user-images.githubusercontent.com/45036724/167523601-9d20fb17-1989-488f-b619-cb53c0db8898.png)
+![Mazer Screenshot](https://img.freepik.com/premium-vector/amazing-virtual-world-digital-art-graphics-science-technology-future-virtual-reality-glasses-metaverse-colorful-planets-space-fantasy-concept-vector-illustrationgenerative-ai_748571-1002.jpg)
 
-<p align="center">Mazer is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. No jQuery dependency.</p>
+<p align="center">Stay Dashboard is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5.</p>
 <div align="center">
 
-[![All Contributors](https://img.shields.io/github/contributors/zuramai/mazer)](https://github.com/zuramai/mazer/graphs/contributors)
-![GitHub last commit](https://img.shields.io/github/last-commit/zuramai/mazer.svg)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zuramai/mazer)
-[![License](https://img.shields.io/github/license/zuramai/mazer.svg)](LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/susepdev/stay-dev.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/susepdev/stay-dev)
+[![License](https://img.shields.io/github/license/susepdev/stay-dev.svg)](LICENSE)
 
 </div>
 
 <p align="center">
-	<a href="http://zuramai.github.io/mazer/demo">Demo Page</a>&nbsp;&nbsp;&nbsp;
-	<a href="http://zuramai.github.io/mazer/docs">Documentation Page</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://susepdev.github.io/stay-dev">Demo Page</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://susepdev.github.io/stay-dev/docs">Documentation Page</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/zuramai/mazer/blob/main/README_INDONESIAN.md">Indonesian README</a>&nbsp;&nbsp;&nbsp;
 </p>
 
