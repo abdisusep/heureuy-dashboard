@@ -1,6 +1,6 @@
 <h1 align="center">Stay Dashboard</h1>
-
-![Mazer Screenshot](https://img.freepik.com/premium-vector/amazing-virtual-world-digital-art-graphics-science-technology-future-virtual-reality-glasses-metaverse-colorful-planets-space-fantasy-concept-vector-illustrationgenerative-ai_748571-1002.jpg)
+	
+!(https://img.freepik.com/premium-vector/amazing-virtual-world-digital-art-graphics-science-technology-future-virtual-reality-glasses-metaverse-colorful-planets-space-fantasy-concept-vector-illustrationgenerative-ai_748571-1002.jpg)
 
 <p align="center">Stay Dashboard is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5.</p>
 <div align="center">
