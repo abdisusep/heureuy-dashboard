@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/ShaanCoding/ReadME-Generator">
+  <a href="https://github.com/susepdev/stay-dashboard">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,11 +13,16 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Forks](https://img.shields.io/github/forks/ShaanCoding/ReadME-Generator?style=social) ![Stargazers](https://img.shields.io/github/stars/ShaanCoding/ReadME-Generator?style=social) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator) ![License](https://img.shields.io/github/license/susepdev/stay-dashboard) 
+![Downloads](https://img.shields.io/github/downloads/susepdev/stay-dashboard/total)
+![Contributors](https://img.shields.io/github/contributors/susepdev/stay-dashboard?color=dark-green)
+![Forks](https://img.shields.io/github/forks/susepdev/stay-dashboard?style=social)
+![Stargazers](https://img.shields.io/github/stars/susepdev/stay-dashboard?style=social)
+![Issues](https://img.shields.io/github/issues/susepdev/stay-dashboard)
+![License](https://img.shields.io/github/license/susepdev/stay-dashboard) 
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/ReadME-Generator/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/susepdev/stay-dashboard/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
