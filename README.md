@@ -21,4 +21,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 
 ## Authors
 
-* **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
+* **Susep Dev** - [Susep Dev](https://github.com/susepdev/) - *Built ReadME Template*
