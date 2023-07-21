@@ -22,7 +22,7 @@
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/susepdev/stay-dashboard/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/susepdev/stay-dashboard/blob/main/LICENSE) for more information.
 
 ## Authors
 
