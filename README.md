@@ -13,13 +13,12 @@
   </p>
 </p>
 
-  ![Downloads](https://img.shields.io/github/downloads/susepdev/stay-dashboard/total)
-  ![Contributors](https://img.shields.io/github/contributors/susepdev/stay-dashboard?color=dark-green)
-  ![Forks](https://img.shields.io/github/forks/susepdev/stay-dashboard?style=social)
-  ![Stargazers](https://img.shields.io/github/stars/susepdev/stay-dashboard?style=social)
-  ![Issues](https://img.shields.io/github/issues/susepdev/stay-dashboard)
-  ![License](https://img.shields.io/github/license/susepdev/stay-dashboard) 
-
+![Downloads](https://img.shields.io/github/downloads/susepdev/stay-dashboard/total)
+![Contributors](https://img.shields.io/github/contributors/susepdev/stay-dashboard?color=dark-green)
+![Forks](https://img.shields.io/github/forks/susepdev/stay-dashboard?style=social)
+![Stargazers](https://img.shields.io/github/stars/susepdev/stay-dashboard?style=social)
+![Issues](https://img.shields.io/github/issues/susepdev/stay-dashboard)
+![License](https://img.shields.io/github/license/susepdev/stay-dashboard) 
 
 ## License
 
