@@ -26,4 +26,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/abdisusep/st
 
 ## Authors
 
-* **[Susep Dev](https://github.com/abdisusep/)**
+* **[Susep Sp](https://github.com/abdisusep/)**
