@@ -12,14 +12,14 @@
     <br/>
   </p>
 </p>
-<p align="center">
+
 ![Downloads](https://img.shields.io/github/downloads/abdisusep/heureuy-dashboard/total)
 ![Contributors](https://img.shields.io/github/contributors/abdisusep/heureuy-dashboard?color=dark-green)
 ![Forks](https://img.shields.io/github/forks/abdisusep/heureuy-dashboard?style=social)
 ![Stargazers](https://img.shields.io/github/stars/abdisusep/heureuy-dashboard?style=social)
 ![Issues](https://img.shields.io/github/issues/abdisusep/heureuy-dashboard)
 ![License](https://img.shields.io/github/license/abdisusep/heureuy-dashboard) 
-</p>
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/abdisusep/heureuy-dashboard/blob/main/LICENSE) for more information.
