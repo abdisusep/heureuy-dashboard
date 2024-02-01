@@ -1,10 +1,10 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/abdisusep/stay-dashboard">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/abdisusep/heureuy-dashboard">
+    <img src="https://heureuy-login-abdisusep.vercel.app/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Stay Dashboard</h3>
+  <h3 align="center">Heureuy Dashboard</h3>
 
   <p align="center">
     An Simple Dashboard Template To Jumpstart Your Projects!
@@ -13,16 +13,16 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/abdisusep/stay-dashboard/total)
-![Contributors](https://img.shields.io/github/contributors/abdisusep/stay-dashboard?color=dark-green)
-![Forks](https://img.shields.io/github/forks/abdisusep/stay-dashboard?style=social)
-![Stargazers](https://img.shields.io/github/stars/abdisusep/stay-dashboard?style=social)
-![Issues](https://img.shields.io/github/issues/abdisusep/stay-dashboard)
-![License](https://img.shields.io/github/license/abdisusep/stay-dashboard) 
+![Downloads](https://img.shields.io/github/downloads/abdisusep/heureuy-dashboard/total)
+![Contributors](https://img.shields.io/github/contributors/abdisusep/heureuy-dashboard?color=dark-green)
+![Forks](https://img.shields.io/github/forks/abdisusep/heureuy-dashboard?style=social)
+![Stargazers](https://img.shields.io/github/stars/abdisusep/heureuy-dashboard?style=social)
+![Issues](https://img.shields.io/github/issues/abdisusep/heureuy-dashboard)
+![License](https://img.shields.io/github/license/abdisusep/heureuy-dashboard) 
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/abdisusep/stay-dashboard/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/abdisusep/heureuy-dashboard/blob/main/LICENSE) for more information.
 
 ## Authors
 
