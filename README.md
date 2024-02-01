@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/susepdev/stay-dashboard">
+  <a href="https://github.com/abdisusep/stay-dashboard">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,17 +13,17 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/susepdev/stay-dashboard/total)
-![Contributors](https://img.shields.io/github/contributors/susepdev/stay-dashboard?color=dark-green)
-![Forks](https://img.shields.io/github/forks/susepdev/stay-dashboard?style=social)
-![Stargazers](https://img.shields.io/github/stars/susepdev/stay-dashboard?style=social)
-![Issues](https://img.shields.io/github/issues/susepdev/stay-dashboard)
-![License](https://img.shields.io/github/license/susepdev/stay-dashboard) 
+![Downloads](https://img.shields.io/github/downloads/abdisusep/stay-dashboard/total)
+![Contributors](https://img.shields.io/github/contributors/abdisusep/stay-dashboard?color=dark-green)
+![Forks](https://img.shields.io/github/forks/abdisusep/stay-dashboard?style=social)
+![Stargazers](https://img.shields.io/github/stars/abdisusep/stay-dashboard?style=social)
+![Issues](https://img.shields.io/github/issues/abdisusep/stay-dashboard)
+![License](https://img.shields.io/github/license/abdisusep/stay-dashboard) 
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/susepdev/stay-dashboard/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/abdisusep/stay-dashboard/blob/main/LICENSE) for more information.
 
 ## Authors
 
-* **[Susep Dev](https://github.com/susepdev/)**
+* **[Susep Dev](https://github.com/abdisusep/)**
