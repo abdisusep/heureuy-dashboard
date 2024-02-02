@@ -1,13 +1,15 @@
 body{
-	background-color: #f8f9fa !important;
+	background-color: #fff !important;
 }
 
 .navbar-light {
 	background-color: #fff !important;
+	border-bottom: 1px solid #eceef5b3;
 }
 
 .sb-sidenav-light{
 	background-color: #fff !important;
+	border-right: 1px solid #eceef5b3;
 }
 
 .sb-sidenav-footer{
